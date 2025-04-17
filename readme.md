@@ -1,6 +1,6 @@
 # Sendor Chrome Extension
 
-https://x.com/solsendor_pro
+https://x.com/sol_sendor_pro
 
 This extension adds the 'Create Coin' button under every post at x.com. Clicking it will redirect to Sendor in page with selected post.
 
